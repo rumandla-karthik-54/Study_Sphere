@@ -1,0 +1,12 @@
+.madimi-one-regular {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: brown;
+    font-size:45px ;
+  }
+
+  a:link { text-decoration: none; font-size: 25px; color:blue;}
+  a:visited { text-decoration: none; color: forestgreen;}
+  a:hover { text-decoration:none; color: red;}
+  a:active { text-decoration:none}
